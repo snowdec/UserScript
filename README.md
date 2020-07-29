@@ -1,4 +1,1 @@
-# UserScript
 Hello.
-
-/Ibara
