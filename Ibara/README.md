@@ -5,4 +5,4 @@ Tampermonkeyのブラウザ拡張
 
 ・スクリプト  
 [IbaraSkillRevealer](https://github.com/snowdec/UserScript/raw/master/Ibara/IbaraSkillRevealer.user.js)  
-プロフィール画面で変更されたアクティブスキル名の表示を変更します。
+プロフィール画面で変更されたアクティブスキルの文字色を元に戻します。
